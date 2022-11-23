@@ -1,0 +1,6 @@
+user@user:~$ Touch "nombre del archivo".txt
+"en el documento creado escribiremos el texto a imprimir."
+user@user:~$ cat "nombre del archivo".txt
+*Texto del archivo*
+
+((Tambien podemos usar el comando de "cat -b" para imprimir omitiendo paragrafos en blanco.))
